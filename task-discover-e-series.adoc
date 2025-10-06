@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task-discover-e-series.html 
+keywords: e-series, cluster, discover, manage, discovering, discover e-series 
+summary: O NetApp Console pode descobrir os sistemas da Série E no seu ambiente local.  Adicionar sistemas E-Series ao Console permite que você tenha uma visão completa dos dados em seu ambiente de nuvem híbrida multicloud. 
+---
+= Descubra os sistemas da Série E
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Adicionar sistemas E-Series ao NetApp Console permite que você gerencie seus sistemas E-Series a partir do Console e tenha uma visão completa da sua infraestrutura de dados em seu ambiente multinuvem híbrido.
+
+.Função necessária do NetApp Console
+Administrador da organização, administrador de pasta ou projeto, administrador de armazenamento ou especialista em integridade do sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do NetApp Console."^]
+
+.Antes de começar
+Você precisa do seguinte:
+
+* Um NetApp Console Agent instalado em um provedor de nuvem ou em suas instalações, com conectividade de rede ao sistema E-Series. Você deve ter a função de administrador da organização para instalar um agente do Console.  Se você não sabe se sua organização tem um agente do Console ou se precisa criar um, entre em contato com o administrador do Console. https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["Entre em contato com o administrador da sua organização."^]
+* O nome de domínio ou endereço IP do controlador do sistema de armazenamento.
+* Credenciais de administrador para o sistema E-Series.
+
+
+.Passos
+. No menu de navegação, selecione *Armazenamento > Gerenciamento*.
+. Na página *Sistemas*, selecione *Adicionar* e selecione *No local*.
+. Ao lado de *E-Series*, selecione *Discover*.
+. Na página _Detalhes do cluster E-Series_, insira o nome de domínio ou endereço IP do controlador do sistema de armazenamento, as credenciais de administrador do sistema e selecione *Adicionar*.
+

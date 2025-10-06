@@ -1,0 +1,31 @@
+---
+indexpage:
+  title: Gerenciamento da Série E usando BlueXP
+  summary: Descubra seus sistemas E-Series no NetApp Console para obter uma visão
+    completa dos dados em sua multinuvem híbrida.
+  keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-management-family
+  lead: Descubra seus sistemas da Série E no NetApp Console para obter uma visão completa
+    dos dados em sua multinuvem híbrida.
+  tiles:
+  - title: Começar
+    links:
+    - title: Descubra os sistemas da Série E
+      url: "/task-discover-e-series.html"
+  - title: Gerenciar sistemas da série E
+    links:
+    - title: Visualize seus sistemas da Série E
+      url: "/task-view-e-series.html"
+    - title: Remover um sistema do NetApp Console
+      url: "/task-remove-e-series.html"
+  - title: Links relacionados
+    links:
+    - title: Documentação da série E para gerenciamento fora do NetApp Console
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: Blogs e comunidade
+    links:
+    - title: Console NetApp
+      url: https://www.netapp.com/console
+    - title: Serviços de dados NetApp
+      url: https://www.netapp.com/data-services/
+    - title: Comunidade NetApp
+      url: https://community.netapp.com/

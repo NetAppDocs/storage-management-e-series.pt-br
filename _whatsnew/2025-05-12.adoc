@@ -1,0 +1,9 @@
+= Função de acesso BlueXP necessária
+:allow-uri-read: 
+
+
+
+
+=== Função de acesso BlueXP necessária
+
+Agora você precisa de uma das seguintes funções de acesso para visualizar, descobrir ou gerenciar o E-Series no BlueXP: administrador da organização, administrador de pasta ou projeto, administrador de armazenamento ou especialista em integridade do sistema.  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["Saiba mais sobre as funções de acesso do BlueXP ."^]
